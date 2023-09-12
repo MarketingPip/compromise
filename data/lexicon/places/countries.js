@@ -234,6 +234,7 @@ export default [
   'united kingdom',
   'united states of america',
   'united states',
+  'the states', // most usual way for someone from the USA to refer to their country
   'uruguay',
   'usa',
   'ussr',
@@ -269,7 +270,6 @@ export default [
    "kazakstan",
    "nagorno-karabakh",
    "philippines",
-   "philippine",
    "slovak republic",
    "italia",
    "belorus",
@@ -285,6 +285,5 @@ export default [
    "alania",
    "slorc",
    "s. korea",
-   "philippine",
     "nicaraguan"
 ]
