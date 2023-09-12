@@ -34,6 +34,14 @@ export default [
   'syd',
   'yyz',
 
+  // some extra airports
+  "stansted",
+  "heathrow",
+  "gatwick",
+  "haneda",
+  "aerodrom beograd",
+  "dnib",
+  "kansai international airport",
   // bodies of water
   'antarctic ocean',
   'arctic ocean',
@@ -59,12 +67,27 @@ export default [
   'rio grande',
   'godavari',
 
+  // mountains
+   "twyford down",
+   "whistler mountain",
+   "pao de acucar",
+   "rockies",
+   "andean",
+   "urals",
+   "lantau peak",
+ 
   //continents
   'africa',
   'europe',
   'americas',
   'asia',
-
+  "middle east",
+  "caribbean",
+  "mideast",
+  "west indies",
+  "north america",
+  "southeast asia",
+  
   //some notable neighbourhoods (just #Place)
   'midtown',
   'downtown',
@@ -102,4 +125,25 @@ export default [
   'chuuk',
   'kosrae',
   'sakhalin',
+
+
+
+// NHL arenas
+  "enterprise center",
+  "ball arena",
+  "xcel energy center",
+  "bridgestone arena",
+  "american airlines center",
+  "nationwide arena",
+  "nassau live center",
+  "t-mobile arena",
+  "united center",
+  "amalie arena",
+  "staples center",
+  "pnc arena",
+  "canada life centre",
+  "capital one arena",
+  "fla live arena",
+  "honda center"
+
 ]
