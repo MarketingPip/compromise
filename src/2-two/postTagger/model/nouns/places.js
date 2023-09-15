@@ -21,5 +21,5 @@ export default [
   // Address 
   { match: '#Value #Noun (st|street|rd|road|crescent|cr|way|tr|terrace|avenue|ave)', tag: 'Address', reason: 'address-st' },
   // Sports Arenas and Complexs
-  { match: '(#Place+|#Place|#Person|#ProperNoun|#Noun|#Verb) (memorial|athletic|community)? (sportsplex|stadium|sports centre|sports field|soccer complex|soccer centre|sports complex|civic centre|centre|arena|gardens|complex|coliseum|auditorium|place|building)', tag: 'Place', reason: 'sport-complex' },
+  { match: '(#Place+|#Place|#Person|#ProperNoun|#Noun) (memorial|athletic|community)? (sportsplex|stadium|sports centre|sports field|soccer complex|soccer centre|sports complex|civic centre|centre|arena|gardens|complex|coliseum|auditorium|place|building)', tag: 'Place', reason: 'sport-complex' },
 ]
